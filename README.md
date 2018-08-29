@@ -1,1 +1,1 @@
-# TikZIt
+# sTikZ
